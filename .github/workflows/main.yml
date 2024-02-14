@@ -1,0 +1,9 @@
+name: Demo
+on: push
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name:
+      - run: echo "The build has started."
+  
